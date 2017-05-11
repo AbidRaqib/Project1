@@ -1,0 +1,8 @@
+diff a/Source2.html b/Source2.html	(rejected hunks)
+@@ -2,5 +2,6 @@
+ <body>
+ Test
+ Added new line
++  Line three added
+ </body>
+ </html>
